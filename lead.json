@@ -12,5 +12,9 @@
   "value_signal": "Cirugia estetica, medicina estetica, odontologia y tecnologias con ticket medio alto.",
   "demo_url": "https://demo-madrid-estetica-barragan.vercel.app",
   "github_url": "https://github.com/AlfonsoCifuentes/demo-madrid-estetica-barragan",
-  "outreach_status": "drafted_not_sent"
+  "outreach_status": "queued_pending",
+  "outreach_queue_id": "hermes-webdemo-20260615-007",
+  "outreach_version": "hermes-prepared-custom-v1-20260615",
+  "outreach_contact_type": "email publico del aviso legal",
+  "proposed_price": "1.450 EUR"
 }
