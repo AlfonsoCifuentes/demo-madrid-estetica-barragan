@@ -14,7 +14,8 @@
   "github_url": "https://github.com/AlfonsoCifuentes/demo-madrid-estetica-barragan",
   "outreach_status": "queued_pending",
   "outreach_queue_id": "hermes-webdemo-20260615-007",
-  "outreach_version": "hermes-prepared-custom-v1-20260615",
+  "outreach_version": "hermes-client-facing-copy-v2-20260615",
   "outreach_contact_type": "email publico del aviso legal",
-  "proposed_price": "1.450 EUR"
+  "proposed_price": "1.450 EUR",
+  "website_copy_mode": "client_facing_final_site"
 }
