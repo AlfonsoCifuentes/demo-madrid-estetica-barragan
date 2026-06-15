@@ -1,21 +1,23 @@
 # Email draft - Clínica Barragán
 
 - To: r.gonzalez@clinicabarragan.es
-- Subject: Clínica Barragán: propuesta web premium para ordenar tratamientos y consultas
+- Subject: Propuesta web para Clínica Barragán
 - Proposed price: 1.450 EUR
 - Demo: https://demo-madrid-estetica-barragan.vercel.app
 - Source: https://www.clinicabarragan.es/aviso-legal/
 
 Hola,
 
+Soy Alfonso Cifuentes, diseñador web.
+
 He preparado una propuesta visual para Clínica Barragán:
 https://demo-madrid-estetica-barragan.vercel.app
 
-La web está planteada como una versión final: cirugía estética, medicina estética, odontología, tecnología, consulta de valoración y rutas claras por tratamiento.
+La he planteado como una web final más elegante y ordenada, separando cirugía estética, medicina estética, odontología, tecnología y consulta de valoración.
 
-La web actual reúne mucha información, pero puede presentarse de forma más limpia para que el paciente encuentre rápido el área que necesita y solicite valoración con menos fricción.
+En una clínica con tantos tratamientos, una estructura más clara puede ayudar a que cada paciente llegue antes al servicio que necesita y solicite información con menos dudas.
 
-Presupuesto cerrado: 1.450 EUR, pago único. Incluye rediseño responsive, estructura por especialidad, formularios de consulta, integración de WhatsApp o llamada, analítica básica y publicación.
+El presupuesto para dejarla adaptada y publicada sería de 1.450 EUR, pago único. Incluye diseño responsive, estructura por especialidad, formularios de consulta, integración de WhatsApp o llamada, analítica básica y publicación.
 
 Si os interesa, puedo enseñaros la propuesta y revisar qué tratamientos conviene destacar primero.
 
