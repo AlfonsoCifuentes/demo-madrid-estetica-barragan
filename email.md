@@ -4,7 +4,7 @@
 - Contact type: email publico del aviso legal
 - Subject: Clinica Barragan: demo para convertir mejor consultas de alto valor
 - Proposed price: 1.450 EUR
-- Demo: {{VERCEL_URL}}
+- Demo: https://demo-madrid-estetica-barragan.vercel.app
 - Source: https://www.clinicabarragan.es/aviso-legal/
 
 Hola,
@@ -14,7 +14,7 @@ He estado revisando la web de Clinica Barragan. Se nota que teneis una oferta fu
 Precisamente ahi esta el problema comercial: hay demasiado valor compitiendo en el mismo menu. En una decision de 1.000, 3.000 o 6.000 EUR, la persona no quiere navegar por decenas de enlaces; quiere entender si esta en buenas manos y pedir una consulta sin friccion.
 
 He preparado una demo con enfoque mas premium y conversion directa:
-{{VERCEL_URL}}
+https://demo-madrid-estetica-barragan.vercel.app
 
 No propongo "hacer una web bonita"; propongo ordenar los tratamientos rentables, separar rutas por intencion y hacer que consulta gratuita/WhatsApp funcionen como embudo.
 

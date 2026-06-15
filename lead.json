@@ -10,7 +10,7 @@
   "price": "1.450 EUR",
   "weakness": "Tienen ticket alto y muchos servicios, pero la navegacion es tan extensa que compite contra la decision de consulta.",
   "value_signal": "Cirugia estetica, medicina estetica, odontologia y tecnologias con ticket medio alto.",
-  "demo_url": null,
-  "github_url": null,
+  "demo_url": "https://demo-madrid-estetica-barragan.vercel.app",
+  "github_url": "https://github.com/AlfonsoCifuentes/demo-madrid-estetica-barragan",
   "outreach_status": "drafted_not_sent"
 }
